@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.2">
+    <DOCUMENT ANZPAGES="22" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="2" ABSTSPALTEN="20" UNITS="0" DFONT="Asana Math Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="" DPPr="" DPIn="" DPInCMYK="" DPIn2="" DPIn3="" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="1" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESP="13" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Alegreya Regular"/>
+        <STYLE NAME="FAE-01_default-style" LINESPMode="0" LINESP="13.2" VOR="0" NACH="10.0062992125984" FONT="Alegreya Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="FAE-01_P21" ALIGN="3" LINESPMode="0" LINESP="12.6" VOR="4.50708661417323" NACH="4.50708661417323" FONT="Alegreya Regular" FONTSIZE="10.5" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="FAE-01_P29" ALIGN="3" LINESPMode="0" LINESP="12.6" INDENT="0" FIRST="6.74645669291339" VOR="4.50708661417323" NACH="4.50708661417323" FONT="Alegreya Regular" FONTSIZE="10.5" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="FAE-01_WWNum1_1" LINESPMode="0" LINESP="15" FONT="Alegreya Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="FAE-01_Normal_20__28_Web_29_" LINESPMode="0" LINESP="12.6" VOR="4.98897637795276" NACH="4.98897637795276" FONT="Alegreya Regular" FONTSIZE="10.5" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="FAE-01_P1" LINESPMode="0" LINESP="21.6" VOR="0" NACH="0" FONT="Titillium Bold" FONTSIZE="18" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="FAE-01_P85" LINESPMode="0" LINESP="18" VOR="0" NACH="0" FONT="Titillium Bold" FONTSIZE="15" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="FAE-01_P88" LINESPMode="0" LINESP="14.4" VOR="0" NACH="0" FONT="Titillium Bold" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="default-style" LINESPMode="0" LINESP="13.2" VOR="0" NACH="10.00629921" FONT="Alegreya Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="Header 1" LINESPMode="2" LINESP="21.6" VOR="0" NACH="0" FONT="Titillium Bold" FONTSIZE="18" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="BodyPara" ALIGN="3" LINESPMode="2" LINESP="13" INDENT="0" FIRST="12" VOR="0" NACH="0" FONT="Alegreya Regular" FONTSIZE="10.5" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="FirstPara" PARENT="BodyPara" LINESPMode="2" LINESP="12" FIRST="0" FONT="Alegreya Regular" FONTSIZE="10.5"/>
+        <STYLE NAME="ListNum1" PARENT="BodyPara" INDENT="7" FIRST="-7"/>
+        <STYLE NAME="Header2" LINESPMode="2" LINESP="18" VOR="12" NACH="6" FONT="Titillium Bold" FONTSIZE="14" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="Header3" LINESPMode="2" LINESP="14.4" VOR="6" NACH="0" FONT="Titillium Bold" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="Standard" LINESPMode="0" LINESP="12.6" VOR="0" NACH="0" FONT="Alegreya Bold" FONTSIZE="10.5" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="sidebar-header" LINESPMode="0" LINESP="14.4" VOR="0" NACH="0" FONT="Titillium Bold" FONTSIZE="12" FCOLOR="White" KERN="0"/>
+        <STYLE NAME="ListNum1-First" PARENT="BodyPara" INDENT="7" FIRST="-7" VOR="12"/>
+        <STYLE NAME="ListNum-Last" PARENT="BodyPara" INDENT="7" FIRST="-7" NACH="12"/>
+        <STYLE NAME="TitoloGigante" ALIGN="2" LINESP="64" FONT="Titillium Black" FONTSIZE="84" FSHADE="30" LANGUAGE="English"/>
+        <STYLE NAME="Opening Para" ALIGN="3" LINESP="16" FONTSIZE="13" LANGUAGE="English"/>
+        <STYLE NAME="P1" LINESPMode="0" LINESP="21.6" VOR="0" NACH="0" FONT="Titillium Bold" FONTSIZE="18" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="ExamplePara" PARENT="BodyPara" INDENT="12" RMARGIN="0" FIRST="0" VOR="6" NACH="6" FONT="Alegreya Regular">
+            <Tabs Type="0" Pos="17" Fill=""/>
+        </STYLE>
+        <STYLE NAME="P69" ALIGN="1" LINESPMode="0" LINESP="12.6" VOR="0" NACH="0" FONT="Alegreya Regular" FONTSIZE="10.5" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="P93" ALIGN="1" LINESPMode="0" LINESP="14.4" VOR="0" NACH="6.00944881889764" FONT="Titillium Bold" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="P91" ALIGN="3" LINESPMode="0" LINESP="12.6" INDENT="13.4929133858268" FIRST="0" VOR="6.74645669291339" NACH="6.74645669291339" FONT="Alegreya Regular" FONTSIZE="10.5" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="P102" ALIGN="3" LINESPMode="0" LINESP="13.2" VOR="0" NACH="0" FONT="Titillium Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="FirstParaWithMarginsTop" PARENT="FirstPara" VOR="6"/>
+        <STYLE NAME="FirstParaWithMarginsTopBottom" PARENT="FirstPara" VOR="6" NACH="6"/>
+        <STYLE NAME="BodyMarginBottom" PARENT="BodyPara" NACH="6"/>
+        <STYLE NAME="P49" LINESPMode="0" LINESP="12.6" VOR="7.51181102362205" NACH="0" FONT="Alegreya Regular" FONTSIZE="10.5" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="sidebar-body-first" LINESPMode="0" LINESP="13.2" VOR="0" NACH="0" FONT="Titillium Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Alegreya Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="1" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="1.51490408327843e-316" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="" ImageP="" PrintP="" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Subset Name="Alegreya Bold"/>
+            <Subset Name="Alegreya Italic"/>
+            <Subset Name="Alegreya Regular"/>
+            <Subset Name="Titillium Black"/>
+            <Subset Name="Titillium Bold"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="21" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="901.89" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 217.75 197.75 198.25 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1783.78" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2665.67" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="307.625 308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3547.56" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4429.45" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5311.34" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 109 129.25 198.25 217.75 287.75 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="6193.23" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7075.12" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7957.01" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="8838.9" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.125 748.75 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="9720.79" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="10602.68" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="12" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="11484.57" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="13" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="12366.46" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="14" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="13248.35" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="15" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="14130.24" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="16" NAM="" MNAM="Normale" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="15012.13" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="17" NAM="" MNAM="Normale" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="15894.02" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="18" NAM="" MNAM="Normale" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="16775.91" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="19" NAM="" MNAM="Normale" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="17657.8" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="20" NAM="" MNAM="Normale" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="18539.69" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="21" NAM="" MNAM="Normale" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="308 287.75 109 129.25 198.25 217.75 " HorizontalGuides="801.625 764.5 775.75 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="140" YPOS="4469.45" WIDTH="515.28" HEIGHT="724.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 724.5 515.28 724.5 515.28 724.5 515.28 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 724.5 515.28 724.5 515.28 724.5 515.28 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="3534.14405726152" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="1" BACKITEM="3">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="140" YPOS="5351.34" WIDTH="515.28" HEIGHT="446.8" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 446.8 515.28 446.8 515.28 446.8 515.28 446.8 0 446.8 0 446.8 0 446.8 0 446.8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 446.8 515.28 446.8 515.28 446.8 515.28 446.8 0 446.8 0 446.8 0 446.8 0 446.8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="4417.6800715769" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="28" BACKITEM="0">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="387.75" YPOS="2705.67" WIDTH="267.53" HEIGHT="724.125" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.125 267.53 724.125 267.53 724.125 267.53 724.125 0 724.125 0 724.125 0 724.125 0 724.125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.125 267.53 724.125 267.53 724.125 267.53 724.125 0 724.125 0 724.125 0 724.125 0 724.125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="247.930788" gYpos="1767.07202863076" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="3" BACKITEM="-1">
+            <ITEXT CH="Now it’s time to start doing something. You need to leap from one moving train car to another. You need to search the entire library for that spell you really need. You need to distract the guard so you can sneak into the fortress. How do you figure out what happens?"/>
+            <tab/>
+            <para PARENT="Opening Para"/>
+            <ITEXT CH="First you narrate what your cha­racter is try­ing to do. Your cha­racter’s own aspects pro­vi­de a good gui­de for what you"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="can"/>
+            <nbspace/>
+            <ITEXT CH="do. If you ha­ve an aspect that suggests you can perform ma­gic, then ca­st that spell. If your aspects de­scri­be you as a swords­man, draw that bla­de and ha­ve at it. The­se sto­ry de­tails don’t ha­ve addi­tio­nal me­cha­ni­cal impact. You don’t get a bo­nus from your ma­gic or your sword, unless you choo­se to spend a fate point to"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="invo­ke"/>
+            <nbspace/>
+            <ITEXT CH="an appro­priate"/>
+            <nbspace/>
+            <ITEXT CH="aspect. Often, the abi­li­ty to use an aspect to ma­ke so­me­thing true in the sto­ry is bo­nus enou­gh!"/>
+            <para PARENT="BodyPara" ALIGN="3"/>
+            <ITEXT CH="How do you know if you’re succes­s­ful? Often, you ju­st succeed, be­cau­se the action isn’t hard and no­bo­dy’s try­ing to stop you. But if fai­lu­re pro­vi­des an inte­re­sting twi­st in the sto­ry, or if so­me­thing unpre­dicta­ble could happen, you need to break out the"/>
+            <nbspace/>
+            <ITEXT CH="di­ce."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Di­ce or Cards"/>
+            <para PARENT="Header2"/>
+            <ITEXT KERN="0" CH="Part of de­termi­ning your outco­me is ge­ne­rating a random number, whi­ch is usually do­ne in one of two ways: rolling four Fate Di­ce, or dra­wing a card from a Deck of Fate."/>
+            <tab KERN="0"/>
+            <para PARENT="FirstPara" MaxGlyphExtend="0.98"/>
+            <ITEXT FONT="Alegreya Bold" KERN="0" CH="Fate Di­ce"/>
+            <ITEXT KERN="0" CH=":"/>
+            <nbspace/>
+            <ITEXT KERN="0" CH="Fate Di­ce (so­me­ti­mes called Fudge di­ce, after the ga­me they we­re ori­gi­nally de­si­gned for) are one way to de­term"/>
+            <tab KERN="0"/>
+            <ITEXT KERN="0" CH="ine outco­mes. You always roll Fate Di­ce in a set of four. Ea­ch die will co­me up as"/>
+            <nbspace/>
+            <ITEXT FONT="Fate Core Glyphs Regular" KERN="0" CH="0"/>
+            <ITEXT KERN="0" CH=","/>
+            <nbspace/>
+            <ITEXT FONT="Fate Core Glyphs Regular" KERN="0" CH="+"/>
+            <ITEXT KERN="0" CH=", or"/>
+            <nbspace/>
+            <ITEXT FONT="Fate Core Glyphs Regular" KERN="0" CH="-"/>
+            <ITEXT KERN="0" CH=", and you add them to­ge­ther to get the to­tal of the roll. For example:"/>
+            <para PARENT="BodyPara" MaxGlyphExtend="0.98">
+                <Tabs Type="0" Pos="17.2500000000001" Fill=""/>
+            </para>
+            <breakline/>
+            <ITEXT FONT="Fate Core Glyphs Regular" KERN="0" CH="-+0+"/>
+            <ITEXT FONT="Alegreya Regular" KERN="0" CH=" "/>
+            <ITEXT FONT="Titillium Bold" KERN="0" CH="= +1"/>
+            <breakline/>
+            <ITEXT FONT="Fate Core Glyphs Regular" KERN="0" CH="+-00"/>
+            <ITEXT FONT="Alegreya Regular" KERN="0" CH=" "/>
+            <ITEXT FONT="Titillium Bold" KERN="0" CH="=  0"/>
+            <breakline/>
+            <ITEXT FONT="Fate Core Glyphs Regular" KERN="0" CH="+++-"/>
+            <ITEXT FONT="Alegreya Regular" KERN="0" CH=" "/>
+            <ITEXT FONT="Titillium Bold" KERN="0" CH="= +2"/>
+            <breakline/>
+            <ITEXT FONT="Fate Core Glyphs Regular" KERN="0" CH="-000"/>
+            <ITEXT FONT="Alegreya Regular" KERN="0" CH=" "/>
+            <ITEXT FONT="Titillium Bold" KERN="0" CH="= −1"/>
+            <para PARENT="Standard" MaxGlyphExtend="0.98"/>
+            <ITEXT FONT="Alegreya Bold" KERN="0" CH="Deck of Fate"/>
+            <ITEXT KERN="0" CH=":"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Regular" KERN="0" CH="The Deck of Fate is a deck of cards that co­pies the stati­sti­cal spread of Fate Di­ce. You can choo­se to use them instead of di­ce—ei­ther one works great."/>
+            <para PARENT="FirstPara" MaxGlyphExtend="0.98"/>
+            <ITEXT KERN="0" CH="The­se ru­les are written wi­th the as­sumption that you’re rolling Fate Di­ce, but use whi­che­ver one your group pre­fers. Any­ti­me you’re told to roll di­ce, that also means you can draw from the Deck of Fate instead."/>
+            <para PARENT="FirstPara" MaxGlyphExtend="0.98"/>
+            <ITEXT CH="Outco­mes"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="Once you roll your di­ce, add your approa­ch bo­nus (we’ll talk about that in a mo­ment) and any bo­nu­ses from aspects or stunts. Compa­re the to­tal to a target number, whi­ch is ei­ther a"/>
+            <nbspace/>
+            <ITEXT CH="fi­xed diffi­culty"/>
+            <nbspace/>
+            <ITEXT CH="or the re­sult of the GM’s roll for an NPC. Ba­sed on that compa­ri­son, your outco­me is:"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- You"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="fail"/>
+            <nbspace/>
+            <ITEXT CH="if your to­tal is"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="less"/>
+            <ITEXT CH=" than"/>
+            <nbspace/>
+            <ITEXT CH="your oppo­nent’s to­tal."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT CH="- It’s a"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="tie"/>
+            <nbspace/>
+            <ITEXT CH="if your to­tal is"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="equal to"/>
+            <nbspace/>
+            <ITEXT CH="your oppo­nent’s to­tal."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- You"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="succeed"/>
+            <nbspace/>
+            <ITEXT CH="if your to­tal is"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="greater than"/>
+            <nbspace/>
+            <ITEXT CH="your oppo­nent’s to­tal."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- You"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="succeed wi­th sty­le"/>
+            <nbspace/>
+            <ITEXT CH="if your to­tal is at lea­st"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="three greater than"/>
+            <nbspace/>
+            <ITEXT CH="your oppo­nent’s to­tal."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="Now that we’ve co­ve­red outco­mes, we can talk about actions and how the outco­mes work wi­th them."/>
+            <para PARENT="FirstParaWithMarginsTop"/>
+            <ITEXT CH="Actions"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="So you’ve narrated what your PC is try­ing to do, and you’ve esta­bli­shed that the­re’s a chance you could fail. Next, fi­gu­re out what"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="action"/>
+            <nbspace/>
+            <ITEXT CH="be­st de­scri­bes what you’re try­ing to do. The­re are four ba­sic actions that co­ver any­thing you do in the ga­me."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Create an Advanta­ge"/>
+            <para PARENT="Header3"/>
+            <ITEXT FONT="Alegreya Bold" CH="Creating an advanta­ge"/>
+            <nbspace/>
+            <ITEXT CH="is any­thing you do to try to help yourself or one of your friends. Ta­king a mo­ment to ve­ry ca­re­fully aim your pro­ton bla­ster, spending se­ve­ral hours doing re­search in the school li­bra­ry, or tripping the thug who’s try­ing to rob you—the­se all count as creating an advanta­ge. The target of your action may get a chance to use the de­fend action to stop you. The advanta­ge you create lets you do one of the follo­wing three things:"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- Disco­ver an exi­sting si­tuation"/>
+            <nbspace/>
+            <ITEXT CH="aspect."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT CH="- Disco­ver an exi­sting si­tuation"/>
+            <nbspace/>
+            <ITEXT CH="aspect"/>
+            <nbspace/>
+            <ITEXT CH="or ano­ther cha­racter’s aspect that you didn’t know about."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- Ta­ke advanta­ge of an exi­sting"/>
+            <nbspace/>
+            <ITEXT CH="aspect."/>
+            <para PARENT="ListNum-Last"/>
+            <ITEXT FONT="Alegreya Bold" CH="If you’re creating a new aspect or disco­ve­ring an exi­sting one:"/>
+            <para PARENT="FirstPara"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you fail:"/>
+            <nbspace/>
+            <ITEXT CH="Ei­ther you don’t create or disco­ver the aspect at all, or you create or disco­ver it but an"/>
+            <ITEXT FONT="Alegreya Italic" CH="oppo­nent"/>
+            <nbspace/>
+            <ITEXT CH="gets to invo­ke the aspect for free. The se­cond option works be­st if the aspect you create or disco­ver is so­me­thing that other peo­ple could ta­ke advanta­ge of (li­ke"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Rou­gh Terrain"/>
+            <ITEXT CH="). You may ha­ve to reword the aspect to show that it be­ne­fits the other cha­racter instead of you—work it out in whate­ver way ma­kes the mo­st sense wi­th the player who gets the free invo­cation. You can still invo­ke the aspect if you’d li­ke, but it’ll co­st you a fate point."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you tie:"/>
+            <nbspace/>
+            <ITEXT CH="If you’re creating a new aspect, you get a"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="boo­st"/>
+            <ITEXT CH=". Na­me it and invo­ke it once for free—after that, the boo­st goes away. If you’re try­ing to disco­ver an exi­sting aspect, treat this as a success (see be­low)."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- If you succeed: You create or disco­ver the aspect, and you or an ally may invo­ke it once for free. Wri­te the aspect on an index card or sticky no­te and pla­ce it on the ta­ble."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you succeed wi­th sty­le"/>
+            <ITEXT CH=": You create or disco­ver the aspect, and you or an ally may invo­ke it"/>
+            <nbspace/>
+            <ITEXT CH="twi­ce­for free. Usually you can’t invo­ke the sa­me aspect twi­ce on the sa­me roll, but this is an ex­ception; success wi­th sty­le gi­ves you a BIG advanta­ge!"/>
+            <para PARENT="ListNum-Last"/>
+            <ITEXT FONT="Alegreya Bold" CH="If you’re try­ing to ta­ke advanta­ge of an aspect you alrea­dy know about:"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you fail"/>
+            <ITEXT CH=":"/>
+            <nbspace/>
+            <ITEXT CH="You don’t get any addi­tio­nal be­ne­fit from the aspect. You can still invo­ke it in the fu­tu­re if you’d li­ke, at the co­st of a fate point."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you tie or succeed:"/>
+            <nbspace/>
+            <ITEXT CH="You get one free invo­cation on the aspect for you or an ally to use later. You might want to draw a circle or a box on the aspect’s no­te card, and check it off when that invo­cation is used."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you succeed wi­th sty­le:"/>
+            <nbspace/>
+            <ITEXT CH="You get"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="two"/>
+            <nbspace/>
+            <ITEXT CH="free invo­cations on the aspect, whi­ch you can let an ally use, if you wi­sh."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="Overco­me"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="You use the"/>
+            <nbspace/>
+            <ITEXT CH="overco­me"/>
+            <nbspace/>
+            <ITEXT CH="action when you ha­ve to get pa­st so­me­thing that’s between you and a parti­cu­lar goal—picking a lock, esca­ping from hand­cuffs, lea­ping across a cha­sm, fly­ing a spa­ce­ship throu­gh an aste­roid field. Ta­king so­me action to"/>
+            <nbspace/>
+            <ITEXT CH="eli­mi­nate or change an inconve­nient si­tuation aspect"/>
+            <nbspace/>
+            <ITEXT CH="is usually an overco­me action; we’ll talk mo­re about that in"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Aspects and Fate Points"/>
+            <ITEXT CH=". The target of your action may get a chance to use the de­fend action to stop you."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you fail:"/>
+            <nbspace/>
+            <ITEXT CH="You ha­ve a tou­gh choi­ce to ma­ke. You can simply fail—the door is still locked, the thug still stands between you and the exit, the ene­my spa­ce­ship is still"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="On Your Tail"/>
+            <ITEXT CH=". Or you can succeed, but at a se­rious co­st—may­be you drop so­me­thing vi­tal you we­re carry­ing, may­be you suffer harm. The GM helps you fi­gu­re out an appro­priate co­st."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you tie:"/>
+            <nbspace/>
+            <ITEXT CH="You attain your goal, but at so­me mi­nor co­st. The GM could intro­du­ce a compli­cation, or pre­sent you wi­th a tou­gh choi­ce (you can re­scue one of your friends, but not the other), or so­me other twi­st. See"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="“Succeed at a Co­st”"/>
+            <nbspace/>
+            <ITEXT CH="in"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Running the Ga­me"/>
+            <nbspace/>
+            <ITEXT CH="in"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Fate Co­re"/>
+            <nbspace/>
+            <ITEXT CH="for mo­re ideas."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you succeed:"/>
+            <nbspace/>
+            <ITEXT CH="You accompli­sh what you we­re try­ing to do. The lock springs open, you duck around the thug blocking the door, you ma­na­ge to lo­se the alien spa­ce­ship on your tail."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you succeed wi­th sty­le:"/>
+            <nbspace/>
+            <ITEXT CH="As success (abo­ve), but you also gain a boo­st."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="Attack"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="Use an"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="attack"/>
+            <nbspace/>
+            <ITEXT CH="when you try to hurt so­meo­ne, whe­ther phy­si­cally or mentally—swinging a sword, shoo­ting a bla­ster ri­fle, or yelling a bli­ste­ring insult wi­th the intent to hurt your target. (We’ll talk about this in"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Ou­ch! Da­ma­ge, Stress, and Conse­quences"/>
+            <ITEXT CH=", but the important thing is: If so­meo­ne gets hurt too badly, they’re knocked out of the sce­ne.) The target of your attack gets a chance to use the de­fend action to stop you."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you fail:"/>
+            <nbspace/>
+            <ITEXT CH="Your attack doe­sn’t connect. The target parries your sword, your shot mis­ses, your target lau­ghs off your insult."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you tie:"/>
+            <nbspace/>
+            <ITEXT CH="Your attack doe­sn’t connect strongly enou­gh to cau­se any harm, but you gain a boo­st."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you succeed:"/>
+            <nbspace/>
+            <ITEXT CH="Your attack hits and you do da­ma­ge. See"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Ou­ch! Da­ma­ge, Stress, and Conse­quences"/>
+            <ITEXT CH="."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you succeed wi­th sty­le:"/>
+            <nbspace/>
+            <ITEXT CH="You hit and"/>
+            <nbspace/>
+            <ITEXT CH="do da­ma­ge, plus you ha­ve the option to re­du­ce the da­ma­ge your hit cau­ses by one and gain a boo­st."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="De­fend"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="Use"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="de­fend"/>
+            <nbspace/>
+            <ITEXT CH="when you’re acti­ve­ly try­ing to stop so­meo­ne from doing any of the other three actions—you’re parry­ing a sword stri­ke, try­ing to stay on your feet, blocking a doorway, and the li­ke. Usually this action is performed on"/>
+            <ITEXT FONT="Alegreya Italic" CH="so­meo­ne else’s turn"/>
+            <ITEXT CH=", reacting to their attempt to attack, overco­me, or create an advanta­ge. You may also roll to oppo­se so­me non-attack actions, or to de­fend against an attack on so­meo­ne else, if you can ex­plain why you can. Usually it’s fi­ne if mo­st peo­ple at the ta­ble agree that it’s rea­so­na­ble, but you can also point to an re­le­vant si­tuation aspect to ju­sti­fy it. When you do, you be­co­me the target for any bad re­sults."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you fail:"/>
+            <nbspace/>
+            <ITEXT CH="You’re on the re­cei­ving end of whate­ver your oppo­nent’s success gi­ves them."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you tie or succeed:"/>
+            <nbspace/>
+            <ITEXT CH="Things don’t work out too badly for you; look at the de­scription of your oppo­nent’s action to see what happens."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="If you succeed wi­th sty­le:"/>
+            <nbspace/>
+            <ITEXT CH="Your oppo­nent doe­sn’t get what they want, plus you gain a boo­st."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="Getting Help"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="An ally can help you perform your action. When an ally helps you, they gi­ve up their action for the ex­change and de­scri­be how they’re pro­vi­ding the help; you get a +1 to your roll for ea­ch ally that helps this way. Usually only one or two peo­ple can help this way be­fo­re they start getting in ea­ch other’s way; the GM de­ci­des how ma­ny peo­ple can help at once."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Choo­se Your Approa­ch"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="As we mentio­ned in"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Who Do You Want to Be?,"/>
+            <nbspace/>
+            <ITEXT CH="the­re are six"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="approa­ches"/>
+            <nbspace/>
+            <ITEXT CH="that de­scri­be how you perform actions."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Ca­re­ful:"/>
+            <nbspace/>
+            <ITEXT CH="A Ca­re­ful action is when you pay clo­se attention to de­tail and ta­ke your ti­me to do the job right. Li­ning up a long-range arrow shot. Attenti­ve­ly standing watch. Disarming a bank’s alarm sy­stem."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Cle­ver:"/>
+            <nbspace/>
+            <ITEXT CH="A Cle­ver action re­qui­res that you think fa­st, solve pro­blems, or account for complex va­ria­bles. Finding the wea­k­ness in an ene­my swords­man’s sty­le. Finding the weak point in a fortress wall. Fi­xing a compu­ter."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Fla­shy:"/>
+            <nbspace/>
+            <ITEXT CH="A Fla­shy action dra­ws attention to you; it’s full of sty­le and pa­na­che. De­li­ve­ring an inspi­ring spee­ch to your army. Embarras­sing your oppo­nent in a duel. Pro­du­cing a ma­gi­cal fi­reworks display."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Force­ful:"/>
+            <nbspace/>
+            <ITEXT CH="A Force­ful action isn’t subtle—it’s bru­te strength. Wre­stling a bear. Sta­ring do­wn a thug. Ca­sting a big, po­werful ma­gic spell."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Quick:"/>
+            <nbspace/>
+            <ITEXT CH="A Quick action re­qui­res that you mo­ve quickly and wi­th dexte­ri­ty. Dodging an arrow. Getting in the first punch. Disarming a bomb as it ticks 3… 2… 1…"/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Snea­ky:"/>
+            <nbspace/>
+            <ITEXT CH="A Snea­ky action is do­ne wi­th an empha­sis on mi­sdi­rection, stealth, or de­ceit. Talking your way out of getting arre­sted. Picking a pocket. Feinting in a sword fight."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="0" CH="Ea­ch cha­racter has ea­ch approa­ch rated wi­th a bo­nus from +0 to +3. Add the bo­nus to your di­ce roll to de­termi­ne how well your PC performs the action you de­scri­bed."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="1" CH="So your first instinct is pro­ba­bly to pick the action that gi­ves you the greate­st bo­nus, right? But it doe­sn’t work li­ke that. You ha­ve to ba­se your choi­ce of approa­ch on the de­scription of your action, and you can’t de­scri­be an action that doe­sn’t ma­ke any sense. Would you Force­fully creep throu­gh a dark room, hi­ding from the guards? No, that’s being Snea­ky. Would you Quickly pu­sh that big rock out of the way of the wagon? No, that’s being Force­ful. Circum­stances constrain what approa­ch you can use, so so­me­ti­mes you ha­ve to go wi­th an approa­ch that might not play di­rectly to your strengths"/>
+            <ITEXT KERN="0" CH="."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Roll the Di­ce, Add Your Bo­nus"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="Ti­me to ta­ke up di­ce and roll. Ta­ke the bo­nus as­so­ciated wi­th the approa­ch you’ve cho­sen and add it to the re­sult on the di­ce. If you ha­ve a stunt that applies, add that too. That’s your to­tal. Compa­re it to what your oppo­nent (usually the GM) has."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="De­ci­de Whe­ther to Mo­di­fy the Roll"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="Fi­nally, de­ci­de whe­ther you want to alter your roll by"/>
+            <nbspace/>
+            <ITEXT CH="invo­king aspects—we’ll talk about this a lot in"/>
+            <ITEXT FONT="Alegreya Italic" CH="A­spects and Fate Points"/>
+            <ITEXT CH="."/>
+            <para PARENT="FirstPara"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="140" YPOS="3587.56" WIDTH="515.28" HEIGHT="724.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 724.5 515.28 724.5 515.28 724.5 515.28 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 724.5 515.28 724.5 515.28 724.5 515.28 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="2650.60804294614" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="0" BACKITEM="2">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="140.095" YPOS="3587.56" WIDTH="247.655" HEIGHT="141.97" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="4" TEXTRA="4" BEXTRA="4" REXTRA="4" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.655 0 247.655 0 247.655 0 247.655 0 247.655 141.97 247.655 141.97 247.655 141.97 247.655 141.97 0 141.97 0 141.97 0 141.97 0 141.97 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.655 0 247.655 0 247.655 0 247.655 0 247.655 141.97 247.655 141.97 247.655 141.97 247.655 141.97 0 141.97 0 141.97 0 141.97 0 141.97 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.275788000000006" gYpos="2650.60804294614" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="TAKING ACTION: THE 30-SECOND VERSION"/>
+            <para PARENT="Standard"/>
+            <ITEXT FONTSIZE="10.5" CH="1. Describe what you want your character to do. See if someone or something can stop you."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="2. Decide what action you’re taking: create an advantage, overcome, attack, or defend."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="3. Decide on your approach."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="4. Roll dice and add your approach’s bonus."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="5. Decide whether to modify your roll with aspects."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="6. Figure out your outcome."/>
+            <trail PARENT="ListNum1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="139.819212" YPOS="4469.45" WIDTH="247.930788" HEIGHT="615" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" OpticalMargins="14" COLUMNS="1" COLGAP="4" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="4" TEXTRA="4" BEXTRA="4" REXTRA="4" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.931 0 247.931 0 247.931 0 247.931 0 247.931 615 247.931 615 247.931 615 247.931 615 0 615 0 615 0 615 0 615 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 248.03 0 248.03 0 248.03 0 248.03 0 248.03 615.246 248.03 615.246 248.03 615.246 248.03 615.246 0 615.246 0 615.246 0 615.246 0 615.246 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="3534.14405726152" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="10.5" CH="ACTIONS &amp; OUTCOMES:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="THE 30-SECOND VERSION"/>
+            <para PARENT="Header3" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="Create an Advantage when creating or discovering aspects:"/>
+            <para PARENT="FirstPara" OpticalMargins="14"/>
+            <ITEXT CH="- Fail:"/>
+            <nbspace/>
+            <ITEXT CH="Don’t create or discover, or you do but your opponent (not you) gets a free invocation."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Tie:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Get a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="boost"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="if creating new, or treat as success if looking for existing."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Succeed:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Create or discover the aspect, get a free invocation on"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="it."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Succeed with Style"/>
+            <ITEXT CH=":"/>
+            <nbspace/>
+            <ITEXT CH="Create or discover the aspect, get two free invocations on it."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="Create an Advantage on an aspect you already know about:"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Fail"/>
+            <ITEXT CH=":"/>
+            <nbspace/>
+            <ITEXT CH="No additional benefit."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Tie"/>
+            <ITEXT FONTSIZE="10.5" CH=":"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Generate one free invocation on the aspect."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Succeed:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Generate one free invocation on the aspect."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Succeed with Style"/>
+            <ITEXT CH=":"/>
+            <nbspace/>
+            <ITEXT CH="Generate two free invocations on the aspect."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="Overcome:"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Fail:"/>
+            <nbspace/>
+            <ITEXT CH="Fail, or succeed at a serious cost."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Tie:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Succeed at minor cost."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Succeed:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="You accomplish your goal."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT CH="-"/>
+            <ITEXT FONT="Alegreya Bold" CH=" Succeed with Style"/>
+            <ITEXT CH=":"/>
+            <nbspace/>
+            <ITEXT CH="You accomplish your goal and generate a"/>
+            <nbspace/>
+            <ITEXT CH="boost."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="Attack:"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Fail"/>
+            <ITEXT CH=":"/>
+            <nbspace/>
+            <ITEXT CH="No effect."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Tie:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Attack doesn’t harm the target, but you gain a boost."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Succeed:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Attack hits and causes damage."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Succeed with Style"/>
+            <ITEXT CH=":"/>
+            <nbspace/>
+            <ITEXT CH="Attack hits and causes damage. May reduce damage by one to generate a boost."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="Defend:"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Fail:"/>
+            <nbspace/>
+            <ITEXT CH="You suffer the consequences of your opponent’s success."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Tie:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Look at your opponent’s action to see what happens."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT FONTSIZE="10.5" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Succeed:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Your opponent doesn’t get what they want."/>
+            <para PARENT="ListNum1" OpticalMargins="14"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Succeed with Style"/>
+            <ITEXT CH=":"/>
+            <nbspace/>
+            <ITEXT CH="Your opponent doesn’t get what they want, and you get a boost."/>
+            <trail PARENT="ListNum-Last" OpticalMargins="14"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="387.75" YPOS="941.89" WIDTH="267.53" HEIGHT="724.125" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.125 267.53 724.125 267.53 724.125 267.53 724.125 0 724.125 0 724.125 0 724.125 0 724.125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.125 267.53 724.125 267.53 724.125 267.53 724.125 0 724.125 0 724.125 0 724.125 0 724.125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="247.930788" gYpos="0" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="7" BACKITEM="-1">
+            <ITEXT CH="Re­mem­ber those books where the teen­age wiz­ards struggle against the Dark Lord of Evil? That movie where the dwarves fight to re­cap­ture their mo"/>
+            <ITEXT FONTSIZE="13" CH="u"/>
+            <ITEXT CH="n­tain home from a dragon? That an­im­ated TV show about mys­tic­al knights and their army of clones right­ing wrongs across the galaxy?"/>
+            <para PARENT="Opening Para"/>
+            <ITEXT CH="Aren’t those"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="awe­some"/>
+            <ITEXT CH="?"/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Here’s your chance to put your­self in the her­oes’ shoes in stor­ies like those."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT FONT="Alegreya Italic" CH="Fate Ac­cel­er­ated Edi­tion"/>
+            <nbspace/>
+            <ITEXT CH="is a tab­letop ro­le­play­ing game, where you and your friends gath­er around and tell stor­ies full of danger, ex­cite­ment, and ad­ven­ture. You might have played games sim­il­ar to this be­fore—"/>
+            <ITEXT FONT="Alegreya Italic" CH="Dun­geons &amp; Dragons"/>
+            <nbspace/>
+            <ITEXT CH="is a very pop­u­lar one—but don’t worry if you haven’t; this book­let will guide you through it."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Here’s what you’ll need to play:"/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="- Three to five people."/>
+            <nbspace/>
+            <ITEXT CH="One of you will be the"/>
+            <nbspace/>
+            <ITEXT CH="game­mas­ter, the oth­ers"/>
+            <nbspace/>
+            <ITEXT CH="play­ers. We’ll talk about what those mean later."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT CH="- Fate Dice™, at least four, prefer­ably four per per­son. These are a spe­cial kind of six-sided dice that are marked on two sides with a plus sym­bol"/>
+            <nbspace/>
+            <ITEXT CH="[+], two sides with a minus sym­bol"/>
+            <nbspace/>
+            <ITEXT CH="[-], and two sides are blank"/>
+            <nbspace/>
+            <ITEXT CH="["/>
+            <nbspace/>
+            <ITEXT CH="]. "/>
+            <ITEXT KERN="1" CH="You can get these dice from many hobby and game stores, of­ten un­der their ori­gin­al name—Fudge dice. We call them Fate Dice in this book, but you can call them whatever you"/>
+            <nbspace/>
+            <ITEXT KERN="1" CH="like. Evil Hat will of­fer Fate Dice for sale at"/>
+            <nbspace/>
+            <ITEXT KERN="1" CH="www.evil­hat.com"/>
+            <nbspace/>
+            <ITEXT KERN="1" CH="later in 2013."/>
+            <para PARENT="ListNum-Last"/>
+            <ITEXT KERN="2" CH="If you don't want to use Fudge dice, you don't have to–any set of reg­u­lar six-sided dice will work. If you're us­ing reg­u­lar dice, you read 5 or 6 as"/>
+            <nbspace/>
+            <ITEXT FONT="Fate Core Glyphs Regular" KERN="2" CH="+"/>
+            <ITEXT KERN="2" CH=", 1 or 2 as"/>
+            <nbspace/>
+            <ITEXT FONT="Fate Core Glyphs Regular" KERN="2" CH="-"/>
+            <ITEXT KERN="2" CH=", and 3 or 4 as"/>
+            <nbspace/>
+            <ITEXT FONT="Fate Core Glyphs Regular" CH="0"/>
+            <ITEXT CH="."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="0" CH="The"/>
+            <nbspace/>
+            <ITEXT KERN="0" CH="Deck of Fate"/>
+            <nbspace/>
+            <ITEXT KERN="0" CH="is an al­tern­at­ive to Fate Dice. It’s a deck of cards that mim­ics the prob­ab­il­ity of Fate Dice, and it’s de­signed to be used in the same way Fate Dice are. The Deck of Fate will be avail­able from Evil Hat in 2013 or 2014."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="0" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" KERN="0" CH="Char­ac­ter sheets"/>
+            <ITEXT KERN="0" CH=", one for each play­er. You can down­load these from"/>
+            <nbspace/>
+            <ITEXT KERN="0" CH="www.evil­hat.com."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT KERN="0" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" KERN="0" CH="In­dex cards"/>
+            <nbspace/>
+            <ITEXT KERN="0" CH="or"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="0" CH="sticky notes"/>
+            <nbspace/>
+            <ITEXT KERN="0" CH="or sim­il­ar slips of pa­per."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="0" CH="- "/>
+            <ITEXT FONT="Alegreya Bold" KERN="0" CH="Tokens for fate points"/>
+            <ITEXT KERN="0" CH=". These can be poker chips, beads, pen­nies, or any­thing sim­il­ar. Get a hand­ful—about 30 or 40."/>
+            <para PARENT="ListNum-Last"/>
+            <ITEXT KERN="0" CH="Next, let’s talk about how to use"/>
+            <nbspace/>
+            <ITEXT KERN="0" CH="Fate Ac­cel­er­ated"/>
+            <nbspace/>
+            <ITEXT KERN="0" CH="to tell stor­ies to­geth­er."/>
+            <nbspace/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Telling Stor­ies To­geth­er"/>
+            <para PARENT="Header 1"/>
+            <ITEXT KERN="2" CH="So you’ve gathered your friends, your dice, and your in­dex cards, and you’re ready to play"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="2" CH="Fate Ac­cel­er­ated Edi­tion"/>
+            <nbspace/>
+            <ITEXT KERN="2" CH="(we’ll call it"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="2" CH="FAE"/>
+            <nbspace/>
+            <ITEXT KERN="2" CH="from now on). Time to tell some"/>
+            <ITEXT KERN="4" CH=" stor­ies!"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="What Do You Mean, “Tell Stor­ies”?"/>
+            <para PARENT="Header2"/>
+            <ITEXT FONT="Alegreya Italic" CH="FAE"/>
+            <nbspace/>
+            <ITEXT CH="is all about telling stor­ies. You cre­ate a group of char­ac­ters and fol­low them through some ima­gin­ary ad­ven­ture that you all take turns telling little parts of."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Think about a movie, video game, or TV show you like where the char­ac­ters go on ad­ven­tures—something like"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="The Le­gend of Korra"/>
+            <nbspace/>
+            <ITEXT CH="or"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Star Wars"/>
+            <nbspace/>
+            <ITEXT CH="or"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="The Avengers"/>
+            <nbspace/>
+            <ITEXT CH="or the"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Zelda"/>
+            <nbspace/>
+            <ITEXT CH="games or"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Doc­tor Who"/>
+            <ITEXT CH="or"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="The Lord of the Rings"/>
+            <ITEXT CH=". Now ima­gine a sim­il­ar sort of story, where you and your friends around the table make the de­cisions for the char­ac­ters as they move through the story, and the story changes as you make those de­cisions."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Some­times someone makes a de­cision to try something and you don’t know for sure how it would turn out; that’s when you roll dice to see what hap­pens next. The high­er you roll, the bet­ter the chance that things work out the way you want them to."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="So How Do We Do It?"/>
+            <para PARENT="Header2"/>
+            <ITEXT KERN="3" CH="Well, first you need to fig­ure out what kind of story you’re go­ing to tell. What genre are you in­ter­ested in? Fantasy? Sci­ence fic­tion? Mod­ern-day ad­ven­ture? Will you play in the world of a TV show or com­ic book or movie that you love, or will you cre­ate your own world? For some great ad­vice about how to design the frame­work of your game, see"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="3" CH="Game Cre­ation"/>
+            <nbspace/>
+            <ITEXT KERN="3" CH="in"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="3" CH="Fate Core"/>
+            <ITEXT KERN="3" CH=", avail­able for free at"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" FEATURES="inherit underline" FCOLOR="Blue" KERN="3" CH="www.evil­hat.com"/>
+            <ITEXT KERN="3" CH="."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="3" CH="Next, it’s time to choose who will be the play­ers, and who will be the game­mas­ter. Of the people around the table, all but one are re­ferred to as"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="3" CH="play­ers"/>
+            <ITEXT KERN="3" CH=". Each play­er takes on the role of "/>
+            <ITEXT KERN="4" CH="one"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="4" CH="play­er char­ac­ter"/>
+            <nbspace/>
+            <ITEXT KERN="4" CH="or"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="4" CH="PC"/>
+            <nbspace/>
+            <ITEXT KERN="4" CH="in the story, and puts them­selves in their char­ac­ter’s shoes to "/>
+            <ITEXT KERN="2" CH="make the de­cisions that their char­ac­ter would make. The re­main­ing per­son is called the"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="game­mas­ter"/>
+            <nbspace/>
+            <ITEXT KERN="2" CH="or"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="GM"/>
+            <ITEXT KERN="2" CH=". The GM’s job is to present chal­lenges to the play­ers and to por­tray all the char­ac­ters that aren’t con­trolled by the play­ers ("/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="non-play­er char­ac­ters"/>
+            <nbspace/>
+            <ITEXT KERN="2" CH="or"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="NPCs"/>
+            <ITEXT KERN="2" CH=")."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="2" CH="Once you de­cide who the GM will be, and what the genre and frame­work of the story will be, it’s time for the play­ers to make their char­ac­ters—that’s in the"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="next chapter"/>
+            <ITEXT KERN="2" CH="."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="2" CH="Telling Stor­ies “To­geth­er”? What Do You Mean?"/>
+            <para PARENT="Header3"/>
+            <ITEXT KERN="0" CH="All the people at the table, GM and play­ers alike, are re­spons­ible for telling the story. When you make a de­cision for your char­ac­ter (or for one of the NPCs, if you’re the GM), think about two things."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="0" CH="First, put your­self in your char­ac­ter’s shoes and think hard about what they would do—even if it’s not the best idea. If you’re play­ing a char­ac­ter that some­times makes poor de­cisions, don’t be afraid to make a poor de­cision for them on pur­pose."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="0" CH="Second—and this is really im­port­ant—think about the story that’s be­ing told. Think about the choice that would make that story even bet­ter: more in­ter­est­ing, more ex­cit­ing, fun­ni­er. Would a cer­tain choice give an­oth­er play­er’s char­ac­ter a chance to be awe­some? Strongly con­sider mak­ing that choice."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="0" CH="That’s how you tell great stor­ies"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="0" CH="to­geth­er"/>
+            <ITEXT KERN="0" CH="—by not be­ing afraid for your char­ac­ter to make mis­takes, and by mak­ing choices that make the story more in­ter­est­ing for every­one at the table—not just you."/>
+            <para PARENT="BodyPara"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="140" YPOS="1823.78" WIDTH="515.28" HEIGHT="475" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 475 515.28 475 515.28 475 515.28 475 0 475 0 475 0 475 0 475 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 475 515.28 475 515.28 475 515.28 475 0 475 0 475 0 475 0 475 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="883.536014315379" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="6">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="140" YPOS="1634.89" WIDTH="693" HEIGHT="177.75" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 693 0 693 0 693 0 693 0 693 177.75 693 177.75 693 177.75 693 177.75 0 177.75 0 177.75 0 177.75 0 177.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 0 -693 0 -693 0 -693 0 -693 177.75 -693 177.75 -693 177.75 -693 177.75 -693 177.75 0 177.75 0 177.75 0 177.75 0 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="694.293458277742" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Get"/>
+            <breakline/>
+            <ITEXT CH="Started!"/>
+            <trail PARENT="TitoloGigante"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="140" YPOS="3467.56" WIDTH="761.89" HEIGHT="247.75" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 761.89 0 761.89 0 761.89 0 761.89 0 761.89 247.75 761.89 247.75 761.89 247.75 761.89 247.75 0 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 0 -761.89 0 -761.89 0 -761.89 0 -761.89 247.75 -761.89 247.75 -761.89 247.75 -761.89 247.75 -761.89 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="2530.38406748679" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="How To Do Stuff: Outcomes, Actions and Approaches"/>
+            <trail PARENT="TitoloGigante"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="387.75" YPOS="6233.23" WIDTH="267.53" HEIGHT="724.125" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.125 267.53 724.125 267.53 724.125 267.53 724.125 0 724.125 0 724.125 0 724.125 0 724.125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.125 267.53 724.125 267.53 724.125 267.53 724.125 0 724.125 0 724.125 0 724.125 0 724.125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="247.930788" gYpos="5301.21608589228" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="12" BACKITEM="-1">
+            <ITEXT CH="We’ve talked about the four ac­tions (cre­ate an ad­vant­age, over­come, at­tack, and de­fend) and the four out­comes (fail, tie, suc­ceed, and suc­ceed with style). But in what frame­work do those hap­pen?"/>
+            <para PARENT="Opening Para"/>
+            <ITEXT CH="Usu­ally, when you want to do something straight­for­ward—swim across a ra­ging river, hack someone’s cell phone—all you need to do is make one over­come ac­tion"/>
+            <nbspace/>
+            <ITEXT CH="against a dif­fi­culty level"/>
+            <nbspace/>
+            <ITEXT CH="that the GM sets. You look at your out­come and go from there."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="But some­times things are a little more com­plex."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Chal­lenges"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="A"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="chal­lenge"/>
+            <nbspace/>
+            <ITEXT CH="is a series of over­come and cre­ate an ad­vant­age ac­tions that you use to re­solve an es­pe­cially com­plic­ated situ­ation. Each over­come ac­tion deals with one task or part of the situ­ation, and you take the in­di­vidu­al res­ults to­geth­er to fig­ure out how the situ­ation re­solves."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="To set up a chal­lenge, de­cide what in­di­vidu­al tasks or goals make up the situ­ation, and treat each one as a sep­ar­ate over­come roll."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="De­pend­ing on the situ­ation, one char­ac­ter may be re­quired to make sev­er­al rolls, or mul­tiple char­ac­ters may be able to par­ti­cip­ate. GMs, you aren’t ob­lig­ated to an­nounce all the stages in the chal­lenge ahead of time—ad­just the steps as the chal­lenge un­folds to keep things ex­cit­ing."/>
+            <para PARENT="BodyPara"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="The PCs are the crew of a ship caught in a storm. They de­cide to press on and try to get to their des­tin­a­tion des­pite the weath­er, and the GM sug­gests this sounds like a chal­lenge. Steps in resolv­ing this chal­lenge could be calm­ing pan­icky pas­sen­gers, re­pair­ing dam­aged rig­ging, and keep­ing the ship on the right head­ing."/>
+            <para PARENT="ExamplePara"/>
+            <ITEXT CH="Con­tests"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="When two or more char­ac­ters are com­pet­ing against one an­oth­er for the same goal, but not dir­ectly try­ing to hurt each oth­er, you have a"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="con­test"/>
+            <ITEXT CH=". Ex­amples in­clude a car chase, a pub­lic de­bate, or an arch­ery tour­na­ment."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="A con­test pro­ceeds in a series of ex­changes. In an ex­change, every par­ti­cipant takes one over­come ac­tion to de­term­ine how well they do in that leg of the con­test. Com­pare your res­ult to every­one else’s."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="If you got the highest res­ult, you win the ex­change—you score a vic­tory (which you can rep­res­ent with a tally or check mark on scratch pa­per) and de­scribe how you take the lead. If you suc­ceed with style, you mark two vic­tor­ies."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="If there’s a tie, no one gets a vic­tory, and an un­ex­pec­ted twist oc­curs. This could mean sev­er­al things, de­pend­ing on the situ­ation—the ter­rain or en­vir­on­ment shifts some­how, the para­met­ers of the con­test change, or an unanti­cip­ated vari­able shows up and af­fects all the par­ti­cipants. The GM"/>
+            <nbspace/>
+            <ITEXT CH="cre­ates a new situ­ation as­pect"/>
+            <nbspace/>
+            <ITEXT CH="re­flect­ing this change and puts it in­to play."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="The first par­ti­cipant to achieve three vic­tor­ies wins the con­test."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Con­flicts"/>
+            <para PARENT="Header2"/>
+            <ITEXT FONT="Alegreya Bold" CH="Con­flicts"/>
+            <nbspace/>
+            <ITEXT CH="are used to re­solve situ­ations where char­ac­ters are try­ing to harm one an­oth­er. It could be phys­ic­al harm (a sword fight, a wiz­ard’s duel, a battle with laser blasters), but it could also be men­tal harm (a shout­ing match, a tough in­ter­rog­a­tion, a ma­gic­al psych­ic as­sault)."/>
+            <para PARENT="FirstPara"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="CON­FLICTS:"/>
+            <nbspace/>
+            <ITEXT CH="THE 30-SECOND VER­SION"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="1. Set the scene."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT CH="2. De­term­ine turn or­der."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="3. Start the first ex­change."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- On your turn, take an ac­tion."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- On oth­er people’s turns, de­fend against or re­spond to their ac­tions as ne­ces­sary."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- At the end of every­one’s turn, start a new ex­change or end the con­flict."/>
+            <para PARENT="ListNum-Last"/>
+            <ITEXT CH="Set­ting the Scene"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="E"/>
+            <ITEXT KERN="-3" CH="s­tab­lish what’s go­ing on, where every­one is, and what the en­vir­on­ment is like. Who is the op­pos­i­tion? The GM should write a couple of situ­ation as­pects on sticky notes or in­dex cards and place them on the table. Play­ers"/>
+            <nbspace/>
+            <ITEXT KERN="-3" CH="can sug­gest situ­ation as­pects, too."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="-3" CH="The GM also es­tab­lishes"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="-3" CH="zones"/>
+            <ITEXT KERN="-3" CH=", loosely defined areas that tell you where char­ac­ters are. You de­term­ine zones based on the scene and the fol­low­ing guidelines:"/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="-3" CH="Gen­er­ally, you can in­ter­act with oth­er char­ac­ters in the same zone—or in nearby zones if you can jus­ti­fy act­ing at a dis­tance (for ex­ample, if you have a ranged weapon or ma­gic spell)."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="-3" CH="You can move one zone for free. An ac­tion is re­quired to move if there’s an obstacle along the way, such as someone try­ing to stop you, or if you want to move two or more zones. It some­times helps to sketch a quick map to il­lus­trate zones."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="-3" CH="T"/>
+            <ITEXT CH="hugs are at­tack­ing the char­ac­ters in a house. The liv­ing room is one zone, the kit­chen an­oth­er, the front porch an­oth­er, and the yard a fourth. Any­one in the same zone can eas­ily throw punches at each oth­er. From the liv­ing room, you can throw things at people in the kit­chen or move in­to the kit­chen as a free ac­tion, un­less the door­way is blocked. To get from the liv­ing room to the front porch or yard re­quires an ac­tion."/>
+            <para PARENT="ExamplePara"/>
+            <ITEXT CH="De­term­ine Turn Or­der"/>
+            <para PARENT="Header3"/>
+            <ITEXT KERN="-3" CH="Your turn or­der in a con­flict is based on your ap­proaches. In a phys­ic­al con­flict, com­pare your Quick ap­proach to the oth­er par­ti­cipants’—the one with the fast­est re­flexes goes first. In a men­tal con­flict, com­pare your Care­ful ap­proach—at­ten­tion to de­tail will warn you of danger. Who­ever has the highest ap­proach gets to go first, and then every­one else goes in des­cend­ing or­der. Break ties in whatever man­ner makes sense, with the GM hav­ing the last word."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="-3" CH="GMs, it’s simplest if you pick your most ad­vant­age­ous NPC to de­term­ine your place in the turn or­der, and let all your NPCs go at that time. But if you have a good reas­on to de­term­ine turn or­der in­di­vidu­ally for all your NPCs, go right ahead."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Ex­changes"/>
+            <para PARENT="Header3"/>
+            <ITEXT KERN="1" CH="Next, each char­ac­ter takes a turn in or­der. On their turn, a char­ac­ter can take one of the"/>
+            <nbspace/>
+            <ITEXT KERN="1" CH="four ac­tions. Re­solve the ac­tion to de­term­ine the out­come. The con­flict is over when only one side has char­ac­ters still in the fight."/>
+            <para PARENT="FirstPara"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="140" YPOS="6995.12" WIDTH="761.89" HEIGHT="247.75" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 761.89 0 761.89 0 761.89 0 761.89 0 761.89 247.75 761.89 247.75 761.89 247.75 761.89 247.75 0 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 0 -761.89 0 -761.89 0 -761.89 0 -761.89 247.75 -761.89 247.75 -761.89 247.75 -761.89 247.75 -761.89 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="6064.52812474831" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Challenges"/>
+            <breakline/>
+            <ITEXT CH="Contests and"/>
+            <breakline/>
+            <ITEXT CH="Conflicts"/>
+            <trail PARENT="TitoloGigante"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="8" PTYPE="4" XPOS="140" YPOS="7115.12" WIDTH="515.28" HEIGHT="652.976541722259" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 652.977 515.28 652.977 515.28 652.977 515.28 652.977 0 652.977 0 652.977 0 652.977 0 652.977 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 652.977 515.28 652.977 515.28 652.977 515.28 652.977 0 652.977 0 652.977 0 652.977 0 652.977 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="6184.75210020765" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="10">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="8" PTYPE="4" XPOS="408" YPOS="7115.12" WIDTH="247.28" HEIGHT="163.520000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="4" TEXTRA="4" BEXTRA="4" REXTRA="4" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.28 0 247.28 0 247.28 0 247.28 0 247.28 163.52 247.28 163.52 247.28 163.52 247.28 163.52 0 163.52 0 163.52 0 163.52 0 163.52 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.28 0 247.28 0 247.28 0 247.28 0 247.28 163.52 247.28 163.52 247.28 163.52 247.28 163.52 0 163.52 0 163.52 0 163.52 0 163.52 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="268.180788" gYpos="6184.75210020765" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="CONFLICTS:"/>
+            <nbspace/>
+            <ITEXT CH="THE 30-SECOND VERSION"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="1. Set the scene."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT CH="2. Determine turn order."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="3. Start the first exchange."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- On your turn, take an action."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- On other people’s turns, defend against or respond to their actions as necessary."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- At the end of everyone’s turn, start a new exchange or end the conflict."/>
+            <trail PARENT="ListNum-Last"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="387.75" YPOS="7997.01" WIDTH="267.53" HEIGHT="724.125" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.125 267.53 724.125 267.53 724.125 267.53 724.125 0 724.125 0 724.125 0 724.125 0 724.125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.125 267.53 724.125 267.53 724.125 267.53 724.125 0 724.125 0 724.125 0 724.125 0 724.125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="247.930788" gYpos="7068.28811452303" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="16" BACKITEM="-1">
+            <ITEXT CH="When you’re hit by an attack, the severity of the hit is the difference between the attack roll and your defense roll; we measure that in"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="shifts"/>
+            <ITEXT CH=". For instance, if your opponent gets +5 on their attack and you get a +3 on your defense, the attack deals a two shift hit (5 – 3 = 2)."/>
+            <para PARENT="Opening Para"/>
+            <ITEXT CH="Then, one of two things happens:"/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="- You suffer"/>
+            <nbspace/>
+            <ITEXT CH="stress"/>
+            <nbspace/>
+            <ITEXT CH="and/or"/>
+            <nbspace/>
+            <ITEXT CH="consequences, but you stay in the fight."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT CH="- You get"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="taken out"/>
+            <ITEXT CH=", which means you’re out of the action for a while."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="What Is Stress?"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="If you get hit and don’t want to be taken out, you can choose to take stress."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Stress represents you getting tired or annoyed, taking a superficial wound, or some other condition that goes away quickly."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Your character sheet has a"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="stress track"/>
+            <ITEXT CH=", a row of three boxes. When you take a hit and check a stress box, the box absorbs a number of shifts equal to its number: one shift for Box 1, two for Box 2, or three for Box 3."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="You can only check one stress box for any single hit, but you"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="can"/>
+            <nbspace/>
+            <ITEXT CH="check a stress box and take one or more consequences at the same time. You can’t check a stress box that already has a check mark in it!"/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="What Are Consequences?"/>
+            <para PARENT="Header2"/>
+            <ITEXT KERN="3" CH="Consequences are new aspects that you take to reflect being seriously hurt in some way. Your character sheet has three slots where you can write consequences. Each one is labeled with a number: 2 (mild consequence), 4 (moderate consequence), or 6 (severe consequence). This represents the number of shifts of the hit the consequence absorbs. You can mark off as many of these as you like to handle a single hit, but only if that slot was blank to start with. If you already have a moderate consequence written down, you can’t take another one until you do something to make the first one go away!"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="3" CH="A major downside of consequences is that each consequence is a new aspect that your opponents can invoke against you. The more you take, the more vulnerable you are. And just like situation aspects, the character that creates it (in this case, the character that hit you) gets one free invocation on that consequence. They can choose to let one of their allies use the free invocation."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Let's say that you get hit really hard and take a 4-shift hit. You check Box 2 on your stress track, which leaves you with 2 shifts to deal with. If you can’t, you’re taken out, so it's time for a consequence. You can choose to write a new aspect in the consequence slot labeled 2—say,"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Sprained Ankle"/>
+            <ITEXT CH=". Those final 2 shifts are taken care of and you can keep fighting!"/>
+            <para PARENT="ExamplePara">
+                <Tabs Type="0" Pos="17" Fill=""/>
+            </para>
+            <ITEXT CH="If you’re unable to absorb all of a hit’s shifts—by checking a stress box, taking consequences, or both—you’re taken out."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="What Happens When I Get Taken Out?"/>
+            <para PARENT="Header2">
+                <Tabs Type="0" Pos="870.25" Fill=""/>
+                <Tabs Type="0" Pos="870.25" Fill=""/>
+            </para>
+            <ITEXT CH="If you get taken out, you can no longer act in the scene. Whoever takes you out narrates what happens to you. It should make sense based on how you got taken out—maybe you run from the room in shame, or maybe you get knocked unconscious."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Giving In"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="If things look grim for you, you can"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="give in"/>
+            <nbspace/>
+            <ITEXT CH="(or"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="concede"/>
+            <nbspace/>
+            <ITEXT CH="the fight)—but you have to say that’s what you’re going to do"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="before"/>
+            <nbspace/>
+            <ITEXT CH="your opponent rolls their dice."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="This is different than being taken out, because you get a say in what happens to you. Your opponent gets some major concession from you—talk about what makes sense in your situation—but it beats getting taken out and having no say at all."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Additionally, you get one fate point for conceding, and one fate point for each consequence you took in this conflict. This is your chance to say, “You win this round, but I’ll get you next time!” and get a tall stack of fate points to back it up."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Getting Better—Recovering from Stress and Consequences"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="At the end of each scene, clear all of your stress boxes. Recovery from a consequence is a bit more complicated; you need to explain how you recover from it—whether that’s an ER visit, taking a walk to calm down, or whatever makes sense with the consequence. You also need to wait an appropriate length of time."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Mild consequence:"/>
+            <nbspace/>
+            <ITEXT CH="Clear it at the end of the scene, provided you get a chance to rest."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Moderate consequence:"/>
+            <nbspace/>
+            <ITEXT CH="Clear it at the end of the next session, provided it makes sense within the story."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- "/>
+            <ITEXT FONT="Alegreya Bold" CH="Severe consequence:"/>
+            <nbspace/>
+            <ITEXT CH="Clear it at the end of the"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="scenario"/>
+            <ITEXT CH=", provided it makes sense within the story."/>
+            <para PARENT="ListNum1"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="RENAMING MODERATE AND SEVERE CONSEQUENCES"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="Moderate and severe consequences stick around for a while. Therefore, at some point you may want to change the name of the aspect to better fit what’s going on in the story. For instance, after you get some medical help,"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="Painful Broken Leg"/>
+            <nbspace/>
+            <ITEXT CH="might make more sense if you change it to"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="Hobbling on Crutches"/>
+            <ITEXT CH="."/>
+            <para PARENT="FirstPara"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="140" YPOS="8758.9" WIDTH="761.89" HEIGHT="247.75" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 761.89 0 761.89 0 761.89 0 761.89 0 761.89 247.75 761.89 247.75 761.89 247.75 761.89 247.75 0 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 0 -761.89 0 -761.89 0 -761.89 0 -761.89 247.75 -761.89 247.75 -761.89 247.75 -761.89 247.75 -761.89 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="7831.60015337906" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Ouch!"/>
+            <breakline/>
+            <ITEXT CH="Damage, Stress"/>
+            <breakline/>
+            <ITEXT CH="and Consequences"/>
+            <trail PARENT="TitoloGigante"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="10" PTYPE="4" XPOS="140" YPOS="8878.9" WIDTH="515.28" HEIGHT="627.696541722258" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 627.697 515.28 627.697 515.28 627.697 515.28 627.697 0 627.697 0 627.697 0 627.697 0 627.697 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 627.697 515.28 627.697 515.28 627.697 515.28 627.697 0 627.697 0 627.697 0 627.697 0 627.697 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="7951.82412883841" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="14">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="140" YPOS="10522.68" WIDTH="761.89" HEIGHT="247.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 761.89 0 761.89 0 761.89 0 761.89 0 761.89 247.75 761.89 247.75 761.89 247.75 761.89 247.75 0 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 761.89 0 761.89 0 761.89 0 761.89 0 761.89 247.75 761.89 247.75 761.89 247.75 761.89 247.75 0 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Aspects"/>
+            <breakline/>
+            <ITEXT CH="and Fate Points"/>
+            <trail PARENT="TitoloGigante"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="387.75" YPOS="9760.79" WIDTH="267.53" HEIGHT="724.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.5 267.53 724.5 267.53 724.5 267.53 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.5 267.53 724.5 267.53 724.5 267.53 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="19" BACKITEM="-1">
+            <ITEXT CH="An"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="as­pect"/>
+            <nbspace/>
+            <ITEXT CH="is a word or phrase that de­scribes something spe­cial about a per­son, place, thing, situ­ation, or group. Al­most any­thing you can think of can have as­pects. A per­son might be the"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Greatest Swords­wo­man on the Cloud Sea"/>
+            <ITEXT CH=". A room might be"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="On Fire"/>
+            <nbspace/>
+            <ITEXT CH="after you knock over an oil lamp. After a time-travel en­counter with a di­no­saur, you might be"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Ter­ri­fied"/>
+            <ITEXT CH=". As­pects let you change the story in ways that go along with your char­ac­ter’s tend­en­cies, skills, or prob­lems."/>
+            <para PARENT="Opening Para"/>
+            <ITEXT CH="You"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="spend"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="fate points"/>
+            <ITEXT CH="—which you keep track of with pen­nies or glass beads or poker chips or some oth­er tokens—to un­lock the power of as­pects and make them help you. You"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="earn"/>
+            <nbspace/>
+            <ITEXT CH="fate points by let­ting a char­ac­ter as­pect be com­pelled against you to com­plic­ate the situ­ation or make your life harder. Be sure to keep track of the fate points you have left at the end of the ses­sion—if you have"/>
+            <nbspace/>
+            <ITEXT CH="more than your re­fresh, you start the next ses­sion with the fate points you ended this ses­sion with."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="You earned a lot of fate points dur­ing your game ses­sion, end­ing the day with five fate points. Your re­fresh is 2, so you’ll start with five fate points the next time you play. But an­oth­er play­er ends the same ses­sion with just one fate point. His re­fresh is 3, so he’ll be­gin the next ses­sion with 3 fate points, not just the one he had left over."/>
+            <para PARENT="ExamplePara"/>
+            <ITEXT CH="What Kinds of As­pects Are There?"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="Ther"/>
+            <ITEXT FONTSIZE="10.5" CH="e’s an end­less vari­ety of as­pects, but no mat­ter what they’re called they all work pretty much the same way. The main dif­fer­ence is how long they stick around be­fore go­ing away."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Char­ac­ter As­pects:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="These as­pects are on your char­ac­ter sheet, such as your"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="high concept"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="and"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="trouble. They de­scribe per­son­al­ity traits, im­port­ant de­tails about your past, re­la­tion­ships you have with oth­ers, im­port­ant items or titles you pos­sess, prob­lems you’re deal­ing with or goals you’re work­ing to­ward, or repu­ta­tions and ob­lig­a­tions you carry. These as­pe"/>
+            <ITEXT CH="cts only change un­der very un­usu­al cir­cum­stances; most nev­er will."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Ex­amples:"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Cap­tain of the Sky­ship Nim­bus"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="On the Run From the Knights of the Circle"/>
+            <ITEXT CH=";"/>
+            <ITEXT FONT="Titillium Bold Italic" CH="At­ten­tion to De­tail"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="I Must Pro­tect My Broth­er"/>
+            <para PARENT="ExamplePara"/>
+            <ITEXT FONT="Alegreya Bold" CH="Situ­ation As­pects:"/>
+            <nbspace/>
+            <ITEXT CH="These as­pects de­scribe the sur­round­ings that the ac­tion is tak­ing place in. This in­cludes as­pects you cre­ate or dis­cov­er us­ing the"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="cre­ate an ad­vant­age"/>
+            <nbspace/>
+            <ITEXT CH="ac­tion. A situ­ation as­pect usu­ally van­ishes at the end of the scene it was part of, or when someone takes some ac­tion that would change or get rid of it. Es­sen­tially, they last only as long as the situ­ation­al ele­ment they rep­res­ent lasts."/>
+            <para PARENT="FirstPara"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Ex­amples:"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="On Fire"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Bright Sun­light"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Crowd of Angry People"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Knocked to the Ground"/>
+            <para PARENT="ExamplePara"/>
+            <ITEXT CH="To"/>
+            <nbspace/>
+            <ITEXT CH="get rid of a situ­ation as­pect, you can at­tempt an over­come ac­tion to elim­in­ate it, provided you can think of a way your char­ac­ter could ac­com­plish it—dump a buck­et of wa­ter on the"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Ra­ging Fire"/>
+            <ITEXT CH=", use evas­ive man­euvers to es­cape the en­emy fight­er that’s"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="On Your Tail"/>
+            <ITEXT CH=". An op­pon­ent may use a De­fend ac­tion to try to pre­serve the as­pect, if they can de­scribe how they do it."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT FONT="Alegreya Bold" CH="Con­sequences:"/>
+            <nbspace/>
+            <ITEXT CH="These as­pects rep­res­ent in­jur­ies or oth­er last­ing trauma that hap­pen when you get hit by at­tacks."/>
+            <nbspace/>
+            <ITEXT CH="They go away slowly, as de­scribed in"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Ouch! Dam­age, Stress, and Con­sequences"/>
+            <ITEXT CH="."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Ex­amples:"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Sprained Ankle"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Fear of Spiders"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Con­cus­sion"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="De­bil­it­at­ing Self-Doubt"/>
+            <para PARENT="ExamplePara"/>
+            <ITEXT FONT="Alegreya Bold" CH="Boosts:"/>
+            <nbspace/>
+            <ITEXT CH="A boost is a tem­por­ary as­pect that you get to use once (see"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="“What Do You Do With As­pects?”"/>
+            <ITEXT CH="next), then it van­ishes. Un­used boosts van­ish when the scene they were cre­ated in is over or when the ad­vant­age they rep­res­ent no longer ex­ists. These rep­res­ent very brief and fleet­ing ad­vant­ages you get in con­flicts with oth­ers."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Ex­amples:"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="In My Sights"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Dis­trac­ted"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Un­stable Foot­ing"/>
+            <ITEXT CH=";"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold Italic" CH="Rock in His Boot"/>
+            <para PARENT="ExamplePara"/>
+            <ITEXT CH="What Do You Do With As­pects?"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="There are three big things you can do with as­pects:"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="in­voke"/>
+            <nbspace/>
+            <ITEXT CH="as­pects,"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="com­pel"/>
+            <nbspace/>
+            <ITEXT CH="as­pects, and use as­pects to"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="es­tab­lish facts"/>
+            <ITEXT CH="."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="In­vok­ing As­pects"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="You"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="in­voke"/>
+            <nbspace/>
+            <ITEXT CH="an as­pect to give your­self a bo­nus or make things a bit harder for your op­pon­ent. You can in­voke any as­pect that you a) know about, and b) can ex­plain how you use it to your ad­vant­age—in­clud­ing as­pects on oth­er char­ac­ters or on the situ­ation. Nor­mally, in­vok­ing an as­pect costs you a fate point—hand one of your fate points to the GM. To in­voke an as­pect, you need to de­scribe how that as­pect helps you in your cur­rent situ­ation."/>
+            <para PARENT="FirstPara"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- I at­tack the zom­bie with my sword. I know zom­bies are"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Slug­gish"/>
+            <ITEXT CH=", so that should help me."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- I really want to scare this guy. I’ve heard he’s"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Scared of Mice"/>
+            <ITEXT CH=", so I’ll re­lease a mouse in his bed­room."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- Now that the guard’s"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Dis­trac­ted"/>
+            <ITEXT CH=", I should be able to sneak right by him."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- This spell needs to be really power­ful—I’m an"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Arch­w­iz­ard of the An­cient Or­der"/>
+            <ITEXT CH=", and power­ful spells are my bread and but­ter."/>
+            <para PARENT="ListNum1"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="-3" CH="What does in­vok­ing the as­pect get you? Choose one of the fol­low­ing ef­fects:"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="-3" CH="- Add a +2 bo­nus to your total. This costs a fate point."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="-3" CH="- Rer­oll the dice. This op­tion is best if you rolled really lousy (usu­ally a −3 or −4 show­ing on the dice). This costs a fate point."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="-3" CH="- Con­front an op­pon­ent with the as­pect. You use this op­tion when your op­pon­ent is try­ing something and you think an ex­ist­ing as­pect would make it harder for them. For in­stance, an ali­en thug wants to draw his blaster pis­tol, but he’s"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" KERN="-3" CH="Bur­ied in Debris"/>
+            <ITEXT KERN="-3" CH="; you spend a fate point to in­voke that as­pect, and now your op­pon­ent’s level of dif­fi­culty is in­creased by +2."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="-3" CH="- Help an ally with the as­pect. Use this op­tion when a friend could use some help and you think an ex­ist­ing as­pect would make it easi­er for them. You spend a fate point to in­voke the as­pect, and now your friend gets a +2 on their roll."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONT="Alegreya Italic" KERN="-3" CH="Im­port­ant:"/>
+            <nbspace/>
+            <ITEXT KERN="-3" CH="You can only in­voke any as­pect once on a giv­en dice roll; you can’t spend a stack of fate points on one as­pect and get a huge bo­nus from it. However, you"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="-3" CH="can"/>
+            <nbspace/>
+            <ITEXT KERN="-3" CH="in­voke sev­er­al dif­fer­ent as­pects on the same roll."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="-3" CH="If you’re in­vok­ing an as­pect to add a bo­nus or rer­oll your dice, wait un­til"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="-3" CH="after"/>
+            <nbspace/>
+            <ITEXT KERN="-3" CH="you’ve rolled to do it. No sense spend­ing a fate point if you don’t need"/>
+            <nbspace/>
+            <ITEXT KERN="-3" CH="to!"/>
+            <para PARENT="BodyPara"/>
+            <ITEXT FONT="Alegreya Bold" KERN="-3" CH="Free in­voc­a­tions:"/>
+            <nbspace/>
+            <ITEXT KERN="-3" CH="Some­times you can in­voke an as­pect for free, without pay­ing a fate point. If you cre­ate or dis­cov­er an as­pect through the"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="-3" CH="cre­ate an ad­vant­age"/>
+            <nbspace/>
+            <ITEXT KERN="-3" CH="ac­tion, the first in­voc­a­tion on it (by you or an ally) is free (if you suc­ceeded with style, you get"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="-3" CH="two"/>
+            <nbspace/>
+            <ITEXT KERN="-3" CH="free­bies). If you cause a con­sequence through an at­tack, you or an ally can in­voke it once for free. A"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="-3" CH="boost"/>
+            <nbspace/>
+            <ITEXT KERN="-3" CH="is a spe­cial kind of as­pect that grants one free in­voc­a­tion, then it van­ishes."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Com­pel­ling As­pects"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="If you’re in a situ­ation where hav­ing or be­ing around a cer­tain as­pect means your char­ac­ter’s life is more dra­mat­ic or com­plic­ated, any­one can"/>
+            <nbspace/>
+            <ITEXT CH="com­pel"/>
+            <nbspace/>
+            <ITEXT CH="the as­pect. You can even com­pel it on your­self—that’s called a self-com­pel. Com­pels are the most com­mon way for play­ers to earn more fate points."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="There are two types of com­pels."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT FONT="Alegreya Bold" CH="De­cision com­pels:"/>
+            <nbspace/>
+            <ITEXT CH="This sort of com­pel sug­"/>
+            <ITEXT FONTSIZE="10.5" CH="gests the an­swer to a de­cision your char­ac­ter has to make. If your char­ac­ter is"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" FONTSIZE="10.5" CH="Prin­cess of Alaria"/>
+            <ITEXT FONTSIZE="10.5" CH=", for ex­ample, you may need to stay to lead the de­fense of the Roy­al Alari­an Castle rather than flee­ing to safety. Or if you have a"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" FONTSIZE="10.5" CH="De­fi­ant Streak a Mile Wide"/>
+            <ITEXT FONTSIZE="10.5" CH=", maybe you can’t help but mouth off to the Dean of Dis­cip­line when he ques­tions you."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT FONT="Alegreya Bold" FONTSIZE="10.5" CH="Event com­pels:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Oth­er times a com­pel re­flects something hap­pen­ing that makes life more com­plic­ated for you. If you have"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" FONTSIZE="10.5" CH="Strange Luck"/>
+            <ITEXT FONTSIZE="10.5" CH=", of course that spell you"/>
+            <ITEXT CH="’re work­ing on in class ac­ci­dent­ally turns the dour Po­tions Mas­ter’s hair or­ange. If you"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Owe Don Valdeon a Fa­vor"/>
+            <ITEXT CH=", then Don Valdeon shows up and de­mands that you per­form a ser­vice for him just when it’s least con­veni­ent."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="In any case, when an as­pect is com­pelled against you, the per­son com­pel­ling it of­fers you a fate point and sug­gests that the as­pect has a cer­tain ef­fect—that you’ll make a cer­tain de­cision or that a par­tic­u­lar event will oc­cur. You can dis­cuss it back and forth, pro­pos­ing tweaks or changes to the sug­ges­ted com­pel. After a mo­ment or two, you need to de­cide wheth­er to ac­cept the com­pel. If you agree, you take the fate point and your char­ac­ter makes the sug­ges­ted de­cision or the event hap­pens. If you re­fuse, you must"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="pay"/>
+            <nbspace/>
+            <ITEXT CH="a fate point from your own sup­ply. Yes, this means that if you don’t have any fate points, you can’t re­fuse a com­pel!"/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Es­tab­lish­ing Facts"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="The fi­nal thing that as­pects can do is"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="es­tab­lish facts"/>
+            <nbspace/>
+            <ITEXT CH="in the game. You don’t have to spend any fate points, roll dice, or any­thing to make this hap­pen—just by vir­tue of hav­ing the as­pect"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Ruddy Duck’s Pi­lot"/>
+            <ITEXT CH=", you’ve es­tab­lished that your char­ac­ter is a pi­lot and that you fly a plane named the"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Ruddy Duck"/>
+            <ITEXT CH=". Hav­ing the as­pect"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Mor­tal En­emy: The Red Ninjas"/>
+            <nbspace/>
+            <ITEXT CH="es­tab­lishes that the set­ting has an or­gan­iz­a­tion called the Red Ninjas and that they’re after you for some reas­on. If you take the as­pect"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold Italic" CH="Sor­cer­er of the Mys­ter­i­ous Circle"/>
+            <ITEXT CH=", you not only es­tab­lish that there’s a group of sor­cer­ers called the Mys­ter­i­ous Circle, but that"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="ma­gic ex­ists in the set­ting and that you can per­form it"/>
+            <ITEXT CH="."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="When you es­tab­lish facts of the set­ting this way, make sure you do it in co­oper­a­tion with oth­er play­ers. If most people want to play in a set­ting without ma­gic, you shouldn’t uni­lat­er­ally bring ma­gic in­to it through an as­pect. Make sure that the facts you es­tab­lish through your as­pects make the game fun for every­one."/>
+            <breakline/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Com­pos­ing Good As­pects"/>
+            <para PARENT="Header2"/>
+            <ITEXT CH="When you need to think of a good as­pect (we’re mainly talk­ing about char­ac­ter and situ­ation as­pects here), think about two things:"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- How the as­pect might help you—when you’d in­voke it."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT CH="- How it might hurt you—when it would be com­pelled against you."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="For ex­ample:"/>
+            <para PARENT="FirstParaWithMarginsTopBottom"/>
+            <ITEXT FONT="Titillium Bold Italic" FONTSIZE="11" CH="I’ll Get You, von Stendahl!"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- In­voke this when act­ing against von Stendahl to im­prove your chances."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- Get a fate point when your dis­like for von Stendahl makes you do something fool­ish to try to get him."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT FONT="Titillium Bold Italic" FONTSIZE="11" CH="Hair Trig­ger Nerves"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="- In­voke this when be­ing ex­tra vi­gil­ant and care­ful would help you."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- Get a fate point when this causes you to be jumpy and be dis­trac­ted by threats that aren’t really there."/>
+            <para PARENT="ListNum1"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Ob­vi­ously, your trouble as­pect is sup­posed to cause prob­lems—and thereby make your char­ac­ter’s life more in­ter­est­ing and get you fate points—so it’s okay if that one’s a little more one-di­men­sion­al, but oth­er char­ac­ter and situ­ation as­pects should be double-edged."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Stunts"/>
+            <para PARENT="P1"/>
+            <ITEXT FONT="Alegreya Bold" CH="Stunts"/>
+            <nbspace/>
+            <ITEXT CH="are tricks, man­euvers, or tech­niques your char­ac­ter has that change how an ap­proach works for your char­ac­ter. Gen­er­ally this means"/>
+            <nbspace/>
+            <ITEXT CH="you get a bo­nus in cer­tain situ­ations, but some­times it gives you some oth­er abil­ity or char­ac­ter­ist­ic. A stunt can also re­flect spe­cial­ized, high-qual­ity, or exot­ic equip­ment that your char­ac­ter has ac­cess to that gives them a fre­quent edge over oth­er char­ac­ters."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="There’s no defin­it­ive list of stunts that you pick from; much like as­pects, every­one com­poses their own stunts. There are two ba­sic tem­plates to guide you in com­pos­ing your stunts, so you do have something to work from."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="The first type of stunt gives you a +2 bo­nus when you use a cer­tain ap­proach in a cer­tain situ­ation. Use this tem­plate:"/>
+            <para PARENT="BodyMarginBottom"/>
+            <ITEXT CH="Be­cause I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="[de­scribe some way that you are ex­cep­tion­al, have a cool bit of gear, or are oth­er­wise awe­some]"/>
+            <ITEXT CH=", I get a +2 when I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="[pick one: Care­fully, Clev­erly, Flash­ily, Force­fully, Quickly, Sneak­ily][pick one: at­tack, de­fend, cre­ate ad­vant­ages, over­come]"/>
+            <nbspace/>
+            <ITEXT CH="when"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="[de­scribe a cir­cum­stance]"/>
+            <ITEXT CH="."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="For ex­ample:"/>
+            <para PARENT="FirstParaWithMarginsTopBottom"/>
+            <ITEXT CH="- Be­cause I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="am a Smooth Talk­er"/>
+            <ITEXT CH=", I get a +2 when I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="Sneak­ily cre­ate ad­vant­ages"/>
+            <nbspace/>
+            <ITEXT CH="when"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="I’m in con­ver­sa­tion with someone"/>
+            <ITEXT CH="."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- Be­cause I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="am a Lov­er of Puzzles"/>
+            <ITEXT CH=", I get a +2 when I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="Clev­erly over­come obstacles"/>
+            <nbspace/>
+            <ITEXT CH="when"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="I am presen­ted with a puzzle, riddle, or sim­il­ar conun­drum"/>
+            <ITEXT CH="."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- Be­cause I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="am a World-Class Du­el­ist"/>
+            <ITEXT CH=", I get a +2 when I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="Flash­ily at­tack"/>
+            <nbspace/>
+            <ITEXT CH="when"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="en­gaged in a one-on-one sword­fight"/>
+            <ITEXT CH="."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- Be­cause I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="have a Big Kite Shield"/>
+            <ITEXT CH=", I get a +2 when I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="Force­fully de­fend"/>
+            <nbspace/>
+            <ITEXT CH="when"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="I use my shield in close com­bat"/>
+            <ITEXT CH="."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="2" CH="Some­times, if the cir­cum­stance is es­pe­cially re­strict­ive, you can ap­ply the stunt to both the cre­ate an ad­vant­age ac­tion"/>
+            <nbspace/>
+            <ITEXT KERN="2" CH="and"/>
+            <nbspace/>
+            <ITEXT KERN="2" CH="the over­come ac­tion."/>
+            <para PARENT="FirstParaWithMarginsTop"/>
+            <ITEXT KERN="2" CH="The second type of stunt lets you make something true, do something cool, or oth­er­wise ig­nore the usu­al rules in some way. Use this tem­plate:"/>
+            <para PARENT="BodyMarginBottom"/>
+            <ITEXT KERN="2" CH="Be­cause I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="[de­scribe some way that you are ex­cep­tion­al, have a cool bit of gear, or are oth­er­wise awe­some]"/>
+            <ITEXT KERN="2" CH=", once per game ses­sion I can"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="[de­scribe something cool you can do]"/>
+            <ITEXT KERN="2" CH="."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="2" CH="For ex­ample:"/>
+            <para PARENT="FirstParaWithMarginsTopBottom"/>
+            <ITEXT KERN="2" CH="- Be­cause I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="am Well Con­nec­ted"/>
+            <ITEXT KERN="2" CH=", once per game ses­sion I can"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="find a help­ful ally in just the right place"/>
+            <ITEXT KERN="2" CH="."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="2" CH="- Be­cause I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="am Quick on the Draw"/>
+            <ITEXT KERN="2" CH=", once per game ses­sion I can"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="choose to go first in a phys­ic­al con­flict"/>
+            <ITEXT KERN="2" CH="."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="2" CH="- Be­cause I"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="can Run Circles Around a Leo­pard"/>
+            <ITEXT KERN="2" CH=", once per game ses­sion I can"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="2" CH="show up any­where I want to, provided I could run there, no mat­ter where I star­ted"/>
+            <ITEXT KERN="2" CH="."/>
+            <para PARENT="ListNum1"/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="These tem­plates ex­ist to give you an idea of how stunts should be con­struc­ted, but don’t feel con­strained to fol­low them ex­actly if you have a good idea. If you’d like to read more about the con­struc­tion of stunts, see"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Skills and Stunts"/>
+            <nbspace/>
+            <ITEXT CH="in"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" CH="Fate Core"/>
+            <ITEXT CH="."/>
+            <para PARENT="BodyPara"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="12" PTYPE="4" XPOS="140" YPOS="10642.68" WIDTH="515.28" HEIGHT="724.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 724.5 515.28 724.5 515.28 724.5 515.28 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 724.5 515.28 724.5 515.28 724.5 515.28 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="20" BACKITEM="18">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="140" YPOS="11524.57" WIDTH="515.28" HEIGHT="724.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 724.5 515.28 724.5 515.28 724.5 515.28 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 724.5 515.28 724.5 515.28 724.5 515.28 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="21" BACKITEM="19">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="14" PTYPE="4" XPOS="140" YPOS="12406.46" WIDTH="515.28" HEIGHT="459.386541722259" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 459.387 515.28 459.387 515.28 459.387 515.28 459.387 0 459.387 0 459.387 0 459.387 0 459.387 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 459.387 515.28 459.387 515.28 459.387 515.28 459.387 0 459.387 0 459.387 0 459.387 0 459.387 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="20">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="12" PTYPE="4" XPOS="140" YPOS="11272.18" WIDTH="247.75" HEIGHT="95" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="4" TEXTRA="4" BEXTRA="4" REXTRA="4" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.75 0 247.75 0 247.75 0 247.75 0 247.75 95 247.75 95 247.75 95 247.75 95 0 95 0 95 0 95 0 95 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.75 0 247.75 0 247.75 0 247.75 0 247.75 95 247.75 95 247.75 95 247.75 95 0 95 0 95 0 95 0 95 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="PVP"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="The only time that fate point might not go to the GM is when you’re in con­flict with an­oth­er play­er. If you are, and you in­voke one of that play­er’s char­ac­ter as­pects to help you out against them, they will get the fate point in­stead of the GM once the scene is over."/>
+            <trail PARENT="FirstPara"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="10" PTYPE="4" XPOS="140" YPOS="8878.9" WIDTH="247.75" HEIGHT="375.989999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="4" TEXTRA="4" BEXTRA="4" REXTRA="4" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.75 0 247.75 0 247.75 0 247.75 0 247.75 375.99 247.75 375.99 247.75 375.99 247.75 375.99 0 375.99 0 375.99 0 375.99 0 375.99 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.75 0 247.75 0 247.75 0 247.75 0 247.75 375.99 247.75 375.99 247.75 375.99 247.75 375.99 0 375.99 0 375.99 0 375.99 0 375.99 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.180788000000007" gYpos="7951.82412883842" gWidth="515.460788" gHeight="8583" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="STRESS &amp; CONSEQUENCES:"/>
+            <nbspace/>
+            <ITEXT CH="THE 30-SECOND VERSION"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="- Each character starts with three stress boxes."/>
+            <para PARENT="ListNum1-First"/>
+            <ITEXT CH="- Severity of hit (in shifts)"/>
+            <breakline/>
+            <ITEXT CH="=  Attack Roll – Defense Roll"/>
+            <para PARENT="ListNum1" ALIGN="0"/>
+            <ITEXT CH="- When you take a hit, you need to account for how that hit damages you. One way to absorb the damage is to take stress; you can check one stress box to handle some or all of a single hit. You can absorb a number of shifts equal to the number of the box you check: one for Box 1, two for Box 2, three for Box 3."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- You may also take one or more consequences to deal with the hit, by marking off one or more consequence slots and writing a new aspect for each one. Mild consequence = 2 shifts; moderate = 4 shifts; severe = 6 shifts."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- If you can’t (or decide not to) handle the entire hit, you’re taken out. Your opponent decides what happens to you."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- Giving in before your opponent’s roll allows you to control how you exit the scene. You also get one or more fate points for doing"/>
+            <nbspace/>
+            <ITEXT CH="this!"/>
+            <para PARENT="ListNum1"/>
+            <ITEXT CH="- Stress and mild consequences vanish at the end of the scene, provided you get a chance to rest. Other consequences take longer."/>
+            <trail PARENT="ListNum1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="408" YPOS="11524.57" WIDTH="247.28" HEIGHT="236.526541722258" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="4" TEXTRA="4" BEXTRA="4" REXTRA="4" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.28 0 247.28 0 247.28 0 247.28 0 247.28 236.527 247.28 236.527 247.28 236.527 247.28 236.527 0 236.527 0 236.527 0 236.527 0 236.527 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.28 0 247.28 0 247.28 0 247.28 0 247.28 236.527 247.28 236.527 247.28 236.527 247.28 236.527 0 236.527 0 236.527 0 236.527 0 236.527 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="How Many Fate Points Does the GM Get?"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="As GM, you don’t need to track fate points for each NPC, but that doesn’t mean you get an un­lim­ited num­ber. Start each scene with a pool of one fate point per PC that’s in the scene. Spend fate points from this pool to in­voke as­pects (and con­sequences) against the PCs. When it’s empty, you can’t in­voke as­pects against them."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="How can you in­crease the size of your pool? When a play­er com­pels one of an NPC’s as­pects, add the fate point to your pool. If that com­pel ends the scene, or when an NPC gives in, in­stead add those fate points to your pool at the start of the next scene."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT CH="Fate points you award for com­pels do NOT come from this pool. You nev­er have to worry about run­ning out of fate points to award for com­pels."/>
+            <trail PARENT="FirstPara"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="140" YPOS="14050.24" WIDTH="761.89" HEIGHT="247.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 761.89 0 761.89 0 761.89 0 761.89 0 761.89 247.75 761.89 247.75 761.89 247.75 761.89 247.75 0 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 761.89 0 761.89 0 761.89 0 761.89 0 761.89 247.75 761.89 247.75 761.89 247.75 761.89 247.75 0 247.75 0 247.75 0 247.75 0 247.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT SCALEH="90" KERN="-3" CH="Getting better at"/>
+            <breakline/>
+            <ITEXT SCALEH="90" KERN="-3" CH="doing stuff: Character Advancement"/>
+            <trail PARENT="TitoloGigante" LINESP="68"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="387.75" YPOS="13288.35" WIDTH="267.53" HEIGHT="724.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.5 267.53 724.5 267.53 724.5 267.53 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 267.53 0 267.53 0 267.53 0 267.53 0 267.53 724.5 267.53 724.5 267.53 724.5 267.53 724.5 0 724.5 0 724.5 0 724.5 0 724.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="27" BACKITEM="-1">
+            <ITEXT CPARENT="Default Character Style" CH="Peo­ple change. Your skills sharpen as you practi­ce them. Your li­fe ex­pe­riences accu­mu­late and sha­pe your perso­na­li­ty."/>
+            <nbspace/>
+            <ITEXT CPARENT="Default Character Style" FONT="Alegreya Italic" CH="Fate Acce­le­rated Edi­tion"/>
+            <nbspace/>
+            <ITEXT CPARENT="Default Character Style" CH="re­flects that wi­th"/>
+            <nbspace/>
+            <ITEXT CPARENT="Default Character Style" FONT="Alegreya Bold" CH="cha­racter advance­ment"/>
+            <ITEXT CPARENT="Default Character Style" CH=", whi­ch allo­ws you to change your aspects, add or change stunts, and rai­se your approa­ch bo­nu­ses. You do this when your cha­racter rea­ches a mi­le­sto­ne."/>
+            <para PARENT="Opening Para"/>
+            <ITEXT CH="Mi­le­sto­nes"/>
+            <para PARENT="Header2"/>
+            <ITEXT KERN="-2" CH="Sto­ries in TV sho­ws, co­mic books, mo­vies, and even vi­deo ga­mes usually conti­nue from epi­so­de to epi­so­de, sea­son to sea­son. It took Fro­do three big books to ta­ke the Ring to the fie­ry mountain. It took Aang three sea­sons to de­feat the Fi­re Lord. You get the idea."/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="-2" CH="FAE"/>
+            <nbspace/>
+            <ITEXT KERN="-2" CH="can tell tho­se kinds of sto­ries; you play ma­ny ga­me ses­sions in a row using the sa­me cha­racters—this is often called a"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="-2" CH="campai­gn"/>
+            <ITEXT KERN="-2" CH="—and the sto­ry builds on itself. But wi­thin the­se long sto­ries, the­re are shorter sto­ry arcs, li­ke single epi­so­des of a TV show or single is­sues of a co­mic, whe­re shorter sto­ries are told and wrapped up."/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="-2" CH="FAE"/>
+            <nbspace/>
+            <ITEXT KERN="-2" CH="can do that too, even wi­thin a longer campai­gn."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="-2" CH="In"/>
+            <nbspace/>
+            <ITEXT KERN="-2" CH="FAE, we call tho­se wrap-ups"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="-2" CH="mi­le­sto­nes"/>
+            <ITEXT KERN="-2" CH="—whe­ther they’re small ones for short sto­ries, or really big ones at the end of ma­ny ses­sions of play."/>
+            <nbspace/>
+            <ITEXT KERN="-2" CH="FAE"/>
+            <nbspace/>
+            <ITEXT KERN="-2" CH="re­co­gni­zes three ty­pes of mi­le­sto­nes, and ea­ch one allo­ws you to change your cha­racter in certain ways."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT CH="Mi­nor Mi­le­sto­nes"/>
+            <para PARENT="Header3"/>
+            <ITEXT KERN="0" CH="A"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" KERN="0" CH="mi­nor mi­le­sto­ne"/>
+            <nbspace/>
+            <ITEXT KERN="0" CH="usually occurs at the end of a ses­sion of play, or when one pie­ce of a sto­ry has been re­solved. Rather than ma­king your cha­racter mo­re po­werful, this kind of mi­le­sto­ne is mo­re about changing your cha­racter, about ad­ju­sting in re­sponse to whate­ver’s going on in the sto­ry if you need to. So­me­ti­mes it won’t really ma­ke sense to ta­ke advanta­ge of a mi­nor mi­le­sto­ne, but you always ha­ve the opportu­ni­ty in ca­se you need to."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="0" CH="After a mi­nor mi­le­sto­ne, you can choo­se to do one (and only one) of the follo­wing:"/>
+            <para PARENT="BodyMarginBottom"/>
+            <ITEXT KERN="0" CH="- Switch the ratings of any two approa­ches."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="0" CH="- Re­na­me one aspect that isn’t your hi­gh concept."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="0" CH="- Ex­change one stunt for a diffe­rent stunt."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="0" CH="- Choo­se a new stunt (and ad­ju­st your re­fre­sh, if you alrea­dy ha­ve three stunts)."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="0" CH="Also, if you ha­ve a mo­de­rate conse­quence, check to see if it’s been around for two ses­sions. If so, you can clear it."/>
+            <para PARENT="FirstParaWithMarginsTop"/>
+            <ITEXT CH="Si­gni­fi­cant Mi­le­sto­nes"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="A"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Bold" CH="si­gni­fi­cant mi­le­sto­ne"/>
+            <nbspace/>
+            <ITEXT CH="usually occurs at the end of a"/>
+            <nbspace/>
+            <ITEXT CH="sce­na­rio"/>
+            <nbspace/>
+            <ITEXT CH="or the conclu­sion of a big plot event (or, when in doubt, at "/>
+            <ITEXT KERN="3" CH="the end of eve­ry two or three ses­sions). Unli­ke mi­nor mi­le­sto­nes, whi­ch are pri­ma­ri­ly about change, si­gni­fi­cant mi­le­sto­nes are about learning new things—dea­ling wi­th pro­blems and challenges has ma­de your cha­racter ge­ne­rally mo­re capa­ble at what they do."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="3" CH="In addi­tion to the be­ne­fit of a mi­nor mi­le­sto­ne, you also gain"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="3" CH="bo­th"/>
+            <nbspace/>
+            <ITEXT KERN="3" CH="of the follo­wing:"/>
+            <para PARENT="BodyMarginBottom"/>
+            <ITEXT KERN="3" CH="- If you ha­ve a se­ve­re conse­quence that’s been around for at lea­st two ses­sions, you can clear it."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="3" CH="- Rai­se the bo­nus of one approa­ch by one."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="3" CH="Ma­jor Mi­le­sto­nes"/>
+            <para PARENT="Header3"/>
+            <ITEXT FONT="Alegreya Bold" KERN="3" CH="Ma­jor mi­le­sto­nes"/>
+            <nbspace/>
+            <ITEXT KERN="3" CH="should only occur when so­me­thing happens in the campai­gn that sha­kes it up a lot—the end of a big sto­ry arc, the fi­nal de­feat of a main NPC villain, or any other large-sca­le change that re­verbe­rates around your ga­me world."/>
+            <para PARENT="FirstPara"/>
+            <ITEXT KERN="3" CH="The­se mi­le­sto­nes are about gai­ning mo­re po­wer. The challenges of ye­sterday simply aren’t suffi­cient to threaten the­se cha­racters any­mo­re, and the threats of to­morrow will need to be mo­re adept, orga­ni­zed, and de­termi­ned to stand against them."/>
+            <para PARENT="BodyPara"/>
+            <ITEXT KERN="3" CH="Achie­ving a ma­jor mi­le­sto­ne confers the be­ne­fits of a si­gni­fi­cant mi­le­sto­ne"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="3" CH="and"/>
+            <nbspace/>
+            <ITEXT KERN="3" CH="a mi­nor mi­le­sto­ne. In addi­tion, you may do"/>
+            <nbspace/>
+            <ITEXT FONT="Alegreya Italic" KERN="3" CH="all"/>
+            <nbspace/>
+            <ITEXT KERN="3" CH="of the follo­wing:"/>
+            <para PARENT="BodyMarginBottom"/>
+            <ITEXT KERN="3" CH="- Ta­ke an addi­tio­nal point of re­fre­sh, whi­ch you may imme­diate­ly use to purcha­se a stunt if you wi­sh."/>
+            <para PARENT="ListNum1"/>
+            <ITEXT KERN="0" CH="- Re­na­me your cha­racter’s hi­gh concept (optio­nal)"/>
+            <ITEXT CH="."/>
+            <para PARENT="ListNum1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="140" YPOS="14170.24" WIDTH="515.28" HEIGHT="267.260000000002" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 267.26 515.28 267.26 515.28 267.26 515.28 267.26 0 267.26 0 267.26 0 267.26 0 267.26 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 267.26 515.28 267.26 515.28 267.26 515.28 267.26 0 267.26 0 267.26 0 267.26 0 267.26 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="26">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="18" PTYPE="4" XPOS="140" YPOS="15934.02" WIDTH="515.28" HEIGHT="761.89" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 761.89 515.28 761.89 515.28 761.89 515.28 761.89 0 761.89 0 761.89 0 761.89 0 761.89 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 761.89 515.28 761.89 515.28 761.89 515.28 761.89 0 761.89 0 761.89 0 761.89 0 761.89 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="29" BACKITEM="1">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="19" PTYPE="4" XPOS="140" YPOS="16815.91" WIDTH="515.28" HEIGHT="761.89" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 761.89 515.28 761.89 515.28 761.89 515.28 761.89 0 761.89 0 761.89 0 761.89 0 761.89 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 761.89 515.28 761.89 515.28 761.89 515.28 761.89 0 761.89 0 761.89 0 761.89 0 761.89 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="30" BACKITEM="28">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="20" PTYPE="4" XPOS="140" YPOS="17697.8" WIDTH="515.28" HEIGHT="761.89" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 761.89 515.28 761.89 515.28 761.89 515.28 761.89 0 761.89 0 761.89 0 761.89 0 761.89 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 761.89 515.28 761.89 515.28 761.89 515.28 761.89 0 761.89 0 761.89 0 761.89 0 761.89 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="31" BACKITEM="29">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="21" PTYPE="4" XPOS="140" YPOS="18579.69" WIDTH="515.28" HEIGHT="761.89" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="20" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 761.89 515.28 761.89 515.28 761.89 515.28 761.89 0 761.89 0 761.89 0 761.89 0 761.89 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.28 0 515.28 0 515.28 0 515.28 0 515.28 761.89 515.28 761.89 515.28 761.89 515.28 761.89 0 761.89 0 761.89 0 761.89 0 761.89 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="30">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="16" PTYPE="4" XPOS="140.47" YPOS="14170.24" WIDTH="247.28" HEIGHT="71.510000000002" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="4" TEXTRA="4" BEXTRA="4" REXTRA="4" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 247.28 0 247.28 0 247.28 0 247.28 0 247.28 71.51 247.28 71.51 247.28 71.51 247.28 71.51 0 71.51 0 71.51 0 71.51 0 71.51 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 247.28 0 247.28 0 247.28 0 247.28 0 247.28 71.51 247.28 71.51 247.28 71.51 247.28 71.51 0 71.51 0 71.51 0 71.51 0 71.51 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Titillium Bold" FONTSIZE="12" CH="RAISING"/>
+            <nbspace/>
+            <ITEXT FONT="Titillium Bold" FONTSIZE="12" CH="APPROACH BONUSES"/>
+            <para PARENT="Header3"/>
+            <ITEXT CH="When you raise the bonus"/>
+            <ITEXT FONTSIZE="10.5" CH=" "/>
+            <ITEXT CH="of an approach, there’s only one rule you need to remember: you can’t raise an approach bonus above Superb"/>
+            <nbspace/>
+            <ITEXT CH="(+5)."/>
+            <trail PARENT="FirstPara"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
